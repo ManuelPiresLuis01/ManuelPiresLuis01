@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelPiresLuis
 - 👀 I’m interested in websites and desktop frontend developer, scifi , anime and cinematography 💻❤️🔥.
-- 🌱 I’m currently learning HTML, CSS, JAVA and JAVA SCRIPT💻
+- 🌱 I’m currently using HTML, CSS, JAVA SCRIPT, TYPE SCRIPT, REACTJS , NODEJS , EXPRESS, MYSQL💻
 - 💞️ I’m looking to collaborate on GitHub source, and Angola community developer
 - Send me email mpl31052001@gmail.com, or call me on my WhatsApp 929004469❤️
   
