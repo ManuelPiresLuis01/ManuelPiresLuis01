@@ -9,7 +9,7 @@
 ---
 
 <h2>🛠️ Tecnologias que utilizo</h2>
-<div align="left"> 
+<div display="flex" flex-wrap="wrap" gap="30px"> 
  <img height="100px" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
 
   <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
