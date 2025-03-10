@@ -1,11 +1,65 @@
-- 👋 Hi, I’m @ManuelPiresLuis
-- 👀 I’m interested in websites and desktop frontend developer, scifi , anime and cinematography 💻❤️🔥.
-- 🌱 I’m currently using HTML, CSS, JAVA SCRIPT, TYPE SCRIPT, REACTJS , NODEJS , EXPRESS, MYSQL💻
-- 💞️ I’m looking to collaborate on GitHub source, and Angola community developer
-- Send me email mpl31052001@gmail.com, or call me on my WhatsApp 929004469❤️
-  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=708090&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia+e+educação;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!---
-ManuelPiresLuis01/ManuelPiresLuis01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Disciplina é melhor que motivação. A prática leva à perfeição.</h2>
+
+---
+
+<h2>🛠️ Tecnologias que utilizo</h2>
+<div align="left"> 
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
+</div>
+
+---
+
+<h2>📚 Projetos em destaque</h2>
+
+- **INLIB - Biblioteca Digital**
+  - Uma plataforma para auxiliar universidades com livros digitais.
+  - [Acesse aqui](https://manuelpiresluis01.github.io/InLib-Biblioteca-Digital/)
+
+- **SportEcommerce**
+  - Um site para compra de roupas esportivas.
+  - [Acesse aqui](https://manuelpiresluis01.github.io/site-do-curso-de-bootstrap-da-udemy/)
+
+Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pires-Luis/#).
+
+---
+
+<h2>📊 Estatísticas do GitHub</h2>
+<p align="center">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpiresluis&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelpiresluis&bg_color=241f31&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
+---
+
+<h2>👤 Como me encontrar?</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manuelpiresluis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mpl31052001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+Fique à vontade para explorar meus repositórios e contribuir com ideias! 🚀
+
