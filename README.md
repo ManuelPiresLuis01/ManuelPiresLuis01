@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2 align="center">Disciplina é melhor que motivação. A prática leva à perfeição.</h2>
+<h2 align="center">Disciplina é melhor que motivação. A prática leva à perfeição e o aprendizado nos torna divinos.</h2>
 
 ---
 
@@ -26,6 +26,15 @@
 
 <h2>📚 Projetos em destaque</h2>
 
+- **Kuenda - Paisagens e marcações**
+  - Uma plataforma para ver e agendar visitas a locais turisticos a nivel nacional.
+  - [Acesse aqui]([https://manuelpiresluis01.github.io/InLib-Biblioteca-Digital/](https://github.com/ManuelPiresLuis01/Kuenda-landing-Page))
+
+- **Victor Sport**
+  - Uma plataforma para apostas e agendamente de eventos desportivos.
+  - [Acesse aqui](https://github.com/ManuelPiresLuis01/VictorSport)
+
+
 - **INLIB - Biblioteca Digital**
   - Uma plataforma para auxiliar universidades com livros digitais.
   - [Acesse aqui](https://manuelpiresluis01.github.io/InLib-Biblioteca-Digital/)
@@ -39,9 +48,6 @@ Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pir
 ---
 
 <h2>📊 Estatísticas do GitHub</h2>
-<p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpiresluis&layout=compact&theme=dracula" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -56,7 +62,7 @@ Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pir
   <a href="https://www.linkedin.com/in/manuelpiresluis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mpl31052001@gmail.com">
+  <a href="mailto:manuelpiresluis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
