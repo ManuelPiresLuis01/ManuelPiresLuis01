@@ -10,27 +10,27 @@
 
 <h2>🛠️ Tecnologias que utilizo</h2>
 <div display="flex" flex-wrap="wrap" gap="30px"> 
- <img height="100px" width="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+ <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
 
-  <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
 
-  <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
 
-  <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
+  <img  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript">
 
-  <img  height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img  height="50px" width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
 
-  <img  height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+  <img height="50px" width="50px"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
 
-  <img  height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img  height="50px" width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
 
-  <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
 
-  <img  height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
 
-  <img  height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
+  <img  height="50px" width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
 
-  <img  height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
+  <img  height="50px" width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
 </div>
 
 ---
@@ -62,7 +62,7 @@ Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pir
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelpiresluis&bg_color=241f31&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&bg_color=241f31&color=77767b&line=1a5fb4&point=26a269&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
