@@ -42,7 +42,13 @@
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelPiresLuis01&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&theme=dracula)
 
+<h2>🏆 Conquistas </h2>
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ManuelPiresLuis01&theme=onedark)
+
+### 🐍 Commits Snake  
+![Snake animation](https://github.com/ManuelPiresLuis01/ManuelPiresLuis01/blob/output/github-contribution-grid-snake.svg)
 
 
   
