@@ -3,7 +3,7 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGWaHAa_KY6PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736340579813?e=1748476800&v=beta&t=rcdcEwFhDl3rjtbaA_-pqZ8fgkgnYZKD9TUEygpGXrs)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=500&color=708090&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </a>
 
 ## 🏆 Disciplina é melhor que motivação
@@ -11,7 +11,9 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🚀 Tecnologias e Metodologias
+
+### 🛠️ Tecnologias que utilizo
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
@@ -23,7 +25,23 @@
   <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
   <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
   <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
+  <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
 </div>
+
+### 🔄 Metodologias Ágeis
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/1024px-Scrum_process.svg.png" alt="Scrum" /> Scrum
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kanban_board_explained.svg/1280px-Kanban_board_explained.svg.png" alt="Kanban" /> Kanban
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Extreme_Programming.svg/1200px-Extreme_Programming.svg.png" alt="XP" /> XP (Extreme Programming)
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lean_manufacturing.svg/1200px-Lean_manufacturing.svg.png" alt="Lean Development" /> Lean Development
+</div>
+
+---
+
+## 🎮 Jogos e Terminal
+- 🎮 **Game Interativo:** *Em breve!*
+- 🖥️ **Terminal Simulado:** *Explore meu perfil interagindo como um terminal de verdade!*
+- 🐛 **Bugs e Debugging:** Aprender a corrigir erros é uma arte!
 
 ---
 
@@ -59,20 +77,6 @@
   - [Acesse aqui](https://manuelpiresluis01.github.io/site-do-curso-de-bootstrap-da-udemy/)
 
 Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pires-Luis/#).
-
----
-
-## 🎮 Hobbies & Interesses
-- 🎨 Arte digital e design gráfico
-- 🎮 Games competitivos e casuais
-- 📚 Leitura sobre tecnologia e ficção científica
-- 🎬 Filmes e animes
-- 🎵 Escutar música enquanto programo
-
----
-
-## 🎶 O que estou ouvindo agora
-![Spotify](https://novatorem-username.vercel.app/api/spotify)
 
 ---
 
