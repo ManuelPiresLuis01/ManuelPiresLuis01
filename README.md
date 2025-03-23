@@ -42,6 +42,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelPiresLuis01&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
 </div>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelPiresLuis01&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&theme=dracula)
+
+
 </div>
 
   
@@ -77,6 +81,11 @@ Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pir
 </p>
 
 ---
+
+
+### 🏆 Visitantes no perfil  
+![Visitors](https://komarev.com/ghpvc/?username=ManuelPiresLuis01&color=blue)
+
 
 <h2>👤 Como me encontrar?</h2>
 <p align="left">
