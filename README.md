@@ -31,9 +31,6 @@
 ### 🔄 Metodologias Ágeis
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/1024px-Scrum_process.svg.png" alt="Scrum" /> Scrum
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kanban_board_explained.svg/1280px-Kanban_board_explained.svg.png" alt="Kanban" /> Kanban
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Extreme_Programming.svg/1200px-Extreme_Programming.svg.png" alt="XP" /> XP (Extreme Programming)
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lean_manufacturing.svg/1200px-Lean_manufacturing.svg.png" alt="Lean Development" /> Lean Development
 </div>
 
 ---
