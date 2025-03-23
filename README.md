@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Manuel Pires Luís
 
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGWaHAa_KY6PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736340579813?e=1748476800&v=beta&t=rcdcEwFhDl3rjtbaA_-pqZ8fgkgnYZKD9TUEygpGXrs)
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGWaHAa_KY6PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736340579813?e=1748476800&v=beta&t=rcdcEwFhDl3rjtbaA_-pqZ8fgkgnYZKD9TUEygpGXrs" alt="Banner" style="border-radius: 15px; width: 100%;" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
