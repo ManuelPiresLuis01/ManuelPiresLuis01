@@ -37,15 +37,15 @@
 
 
 <div display="flex" flex-wrap="wrap" gap="30px"> 
-<div display="flex" flex-wrap="wrap" gap="30px"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManuelPiresLuis01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelPiresLuis01&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelPiresLuis01&theme=dracula)
-</div>
-
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&theme=dracula)
 
 </div>
+
+
+
 
   
 <h2>📚 Projetos em destaque</h2>
