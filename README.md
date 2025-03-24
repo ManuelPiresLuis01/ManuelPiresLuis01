@@ -1,4 +1,3 @@
-# 👋 Olá, meu nome é Manuel Pires Luís
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGWaHAa_KY6PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736340579813?e=1748476800&v=beta&t=rcdcEwFhDl3rjtbaA_-pqZ8fgkgnYZKD9TUEygpGXrs" alt="Banner" style="border-radius: 15px; width: 100%;" />
 
