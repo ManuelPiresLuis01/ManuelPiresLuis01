@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGWaHAa_KY6PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736340579813?e=1748476800&v=beta&t=rcdcEwFhDl3rjtbaA_-pqZ8fgkgnYZKD9TUEygpGXrs" alt="Banner" style="border-radius: 15px; width: 100%;" />
+<img src="https://www.canva.com/design/DAGlQfhZTcg/vQffxS9sabJpZblGu1B_bQ/edit?utm_content=DAGlQfhZTcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" style="border-radius: 15px; width: 100%;" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
