@@ -28,18 +28,9 @@
 </div>
 
 ### 🔄 Metodologias Ágeis
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex;align-items:center; flex-wrap: wrap; gap: 10px;">
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/1024px-Scrum_process.svg.png" alt="Scrum" /> Scrum
 </div>
-
----
-
-## 🎮 Jogos e Terminal
-- 🎮 **Game Interativo:** *Em breve!*
-- 🖥️ **Terminal Simulado:** *Explore meu perfil interagindo como um terminal de verdade!*
-- 🐛 **Bugs e Debugging:** Aprender a corrigir erros é uma arte!
-
----
 
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
@@ -48,7 +39,6 @@
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManuelPiresLuis01&theme=dracula)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&theme=dracula)
 
 ### 🏆 Conquistas  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ManuelPiresLuis01&theme=onedark)
