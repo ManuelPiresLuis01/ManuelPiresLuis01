@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQG8xl5ggkMb4Q/profile-displaybackgroundimage-shrink_350_1400/B4EZZXym3lHoAY-/0/1745229607483?e=1750896000&v=beta&t=jXM-wM8q4roYMOGyD_CMzMLc3aX8m_YbGpXhCOzH66I" alt="Banner" style="border-radius: 15px; width: 100%;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=808080&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </a>
 
 ## 🏆 Disciplina é melhor que motivação
