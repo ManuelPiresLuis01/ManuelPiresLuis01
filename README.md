@@ -71,7 +71,7 @@ Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pir
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/angola/USERNAME.svg)](https://user-badge.committers.top/angola/manuelpiresluis01)
+[![committers.top badge](https://user-badge.committers.top/angola/ManuelPiresLuis01.svg)](https://user-badge.committers.top/angola/ManuelPiresLuis01)
 
 ## 👤 Como me encontrar?
 <p>
