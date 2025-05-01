@@ -43,28 +43,6 @@
 ### 🏆 Conquistas  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ManuelPiresLuis01&theme=onedark)
 
----
-
-## 📚 Projetos em destaque
-- **Kuenda - Paisagens e marcações**  
-  - Uma plataforma para ver e agendar visitas a locais turísticos a nível nacional.
-  - [Acesse aqui](https://github.com/ManuelPiresLuis01/Kuenda-landing-Page)
-
-- **Victor Sport**  
-  - Uma plataforma para apostas e agendamento de eventos desportivos.
-  - [Acesse aqui](https://github.com/ManuelPiresLuis01/VictorSport)
-
-- **INLIB - Biblioteca Digital**  
-  - Uma plataforma para auxiliar universidades com livros digitais.
-  - [Acesse aqui](https://manuelpiresluis01.github.io/InLib-Biblioteca-Digital/)
-
-- **SportEcommerce**  
-  - Um site para compra de roupas esportivas.
-  - [Acesse aqui](https://manuelpiresluis01.github.io/site-do-curso-de-bootstrap-da-udemy/)
-
-Mais projetos em meu [portfólio](https://manuelpiresluis01.github.io/Manuel-Pires-Luis/#).
-
----
 
 ## 📍 Visitantes no perfil
 ![Visitors](https://komarev.com/ghpvc/?username=ManuelPiresLuis01&color=blue)
