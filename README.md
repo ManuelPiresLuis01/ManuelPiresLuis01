@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQG8xl5ggkMb4Q/profile-displaybackgroundimage-shrink_350_1400/B4EZZXym3lHoAY-/0/1745229607483?e=1750896000&v=beta&t=jXM-wM8q4roYMOGyD_CMzMLc3aX8m_YbGpXhCOzH66I" alt="Banner" style="border-radius: 15px; width: 100%;" />
+<img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/492243336_3835340833445311_4615479428064614721_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=66x2kWK3uooQ7kNvwGkK5rI&_nc_oc=AdkRUfBbADBHhdprTfkmFXfxf0ITqCpLeuSyMbh4Nx2MiAWDFRVQmFob6GCb1ZgqAkU&_nc_zt=23&_nc_ht=scontent.flad1-1.fna&_nc_gid=mjx7GRGtbrHkcVyKvcYLuQ&oh=00_AfRhgc4Cl9BobNJgkp4ndMjFeI-QTw81cMWf23RxnuFceQ&oe=6876BC77" alt="Banner" style="border-radius: 15px; width: 100%;" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=500&color=808080&center=true&vCenter=true&random=false&width=1000&lines=Olá,+meu+nome+é+Manuel+Pires+Luís;Sou+desenvolvedor+web+fullstack;Analista+de+QA;Sou+apaixonado+por+tecnologia;Educação;Arte;Games;Animes;e+muita+ficção+lol;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
