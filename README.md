@@ -1,5 +1,3 @@
-<img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/492243336_3835340833445311_4615479428064614721_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=66x2kWK3uooQ7kNvwGkK5rI&_nc_oc=AdkRUfBbADBHhdprTfkmFXfxf0ITqCpLeuSyMbh4Nx2MiAWDFRVQmFob6GCb1ZgqAkU&_nc_zt=23&_nc_ht=scontent.flad1-1.fna&_nc_gid=mjx7GRGtbrHkcVyKvcYLuQ&oh=00_AfRhgc4Cl9BobNJgkp4ndMjFeI-QTw81cMWf23RxnuFceQ&oe=6876BC77" alt="Banner" style="border-radius: 15px; width: 100%;" />
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=808080&center=true&vCenter=true&width=650&lines=Olá,+sou+Manuel+Pires+Luís;Desenvolvedor+Fullstack+e+Analista+de+QA;Amante+de+tecnologia,+educação+e+arte;Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
