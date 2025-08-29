@@ -70,18 +70,6 @@ Quando não estou programando, curto **games, animes, arte digital e ficção ci
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelPiresLuis01&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelPiresLuis01&theme=radical"/>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManuelPiresLuis01&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
 ---
 
 ## 🌍 Visitantes
