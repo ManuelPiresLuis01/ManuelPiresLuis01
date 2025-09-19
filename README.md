@@ -34,7 +34,8 @@ Quando não estou programando, curto **games, animes, arte digital e ficção ci
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### ✅ Testes
 ![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-007ACC?style=for-the-badge)
