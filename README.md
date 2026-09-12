@@ -183,49 +183,12 @@ A lightweight Node.js package that helps keep free-hosted APIs awake by sending 
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManuelPiresLuis01&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelPiresLuis01&layout=compact&theme=tokyonight&hide_border=true"
- alt="Top Languages"
-/>
-
-</p>
-
----
-
 ## 🔥 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelPiresLuis01&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ManuelPiresLuis01&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ManuelPiresLuis01&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
   />
 </p>
 
