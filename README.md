@@ -12,52 +12,19 @@
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
-```ts
-const manuel = {
-  roles: [
-    "Web Developer",
-    "QA Analyst",
-    "Functional Analyst"
-  ],
+I'm a **Software Developer and QA Automation Engineer** passionate about building reliable, scalable and high-quality software.
 
-  focus: [
-    "Frontend Development",
-    "Software Quality",
-    "Functional Analysis",
-    "UI/UX Thinking"
-  ],
+I enjoy working across the software development lifecycle — from designing and implementing features to creating automated tests that ensure applications behave as expected.
 
-  techStack: {
-    frontend: [
-      "React",
-      "TypeScript",
-      "Next.js"
-    ],
+My main areas of interest are **Frontend Development, Test Automation, Software Quality and Developer Experience**, with a strong focus on **React, TypeScript, Node.js and Playwright**.
 
-    backend: [
-      "Node.js",
-      "Express"
-    ],
+I believe development and quality should not be treated as separate stages. **Good software is built with quality in mind from the beginning**, combining clean code, thoughtful architecture, automated testing and continuous improvement.
 
-    database: [
-      "MongoDB",
-      "MySQL"
-    ],
+I'm constantly learning, experimenting with new technologies and building projects that turn ideas into real solutions.
 
-    testing: [
-      "Playwright",
-      "Vitest",
-      "RTL"
-    ]
-  },
-
-  currentMission:
-    "Building scalable digital solutions with quality, performance and great user experience."
-}
-````
+**Build better. Test smarter. Ship with confidence.**
 
 ---
 
