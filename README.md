@@ -31,9 +31,6 @@ My main areas of focus are:
 
 * 💻 **Software Development**
 * 🧪 **QA & Test Automation**
-* 🌐 **Web Applications**
-* 🔌 **API Testing**
-* 🚀 **Continuous Improvement**
 
 I enjoy turning ideas into working products, improving existing systems and creating tools that solve real problems.
 
@@ -47,23 +44,9 @@ I enjoy turning ideas into working products, improving existing systems and crea
 
 I build modern and maintainable web applications with a focus on clean architecture, performance and user experience.
 
-**React • TypeScript • Node.js • MongoDB**
-
 ### 🧪 QA & Test Automation
 
 I design automated testing solutions that help teams detect problems earlier and deliver software with greater confidence.
-
-**Playwright • E2E Testing • API Testing • Functional Testing • Test Automation**
-
----
-
-## 🔭 Currently
-
-* 🧪 Building and maintaining **automated E2E test suites with Playwright**
-* 💻 Developing web applications with **React, TypeScript and Node.js**
-* 🚀 Building and improving **personal products and digital solutions**
-* 📦 Creating and maintaining **open-source developer tools**
-* 🌱 Continuously improving my software engineering and QA practices
 
 ---
 
@@ -159,13 +142,13 @@ A lightweight Node.js package that helps keep free-hosted APIs awake by sending 
 ## 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,sass,storybook,vitest,playwright,figma,angular,vue,jquery,bootstrap,materialui,chakraui,emotion,styledcomponents,webpack,babel,eslint,prettier,npm" />
 </p>
 
 ## ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,python,mongodb,postgres,mysql,redis,firebase,supabase,prisma,npm,yarn,pnpm" />
 </p>
 
 ## 🧪 QA & Testing
