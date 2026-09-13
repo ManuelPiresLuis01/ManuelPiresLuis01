@@ -112,7 +112,9 @@ I design automated testing solutions that help teams detect problems earlier and
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://site.mamboo.co.ao/">
   <img src="https://res.cloudinary.com/dothdodbx/image/upload/f_auto,q_auto/v1746698339/logo_white_upscayl_2x_realesrgan-x4plus_wp2otm.png" width="120" height="80" alt="MAMBO" />
+  </a>
 </p>
 
 <p align="center">
@@ -140,9 +142,12 @@ A lightweight Node.js package that helps keep free-hosted APIs awake by sending 
     <img src="https://img.shields.io/github/stars/ManuelPiresLuis01/sleep-not-allowed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
   </a>
 
-  <a href="https://www.npmjs.com/package/sleep-not-allowed">
-    <img src="https://img.shields.io/npm/dm/sleep-not-allowed?style=for-the-badge&logo=npm&logoColor=white" alt="npm downloads" />
-  </a>
+<a href="https://www.npmjs.com/package/sleep-not-allowed">
+  <img
+    src="https://img.shields.io/npm/dt/sleep-not-allowed?style=for-the-badge&logo=npm&logoColor=white"
+    alt="npm total downloads"
+  />
+</a>
 </p>
 
 > Built from a simple solution I used in my own projects and turned into a reusable developer tool.
